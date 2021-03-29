@@ -1,0 +1,19 @@
+{
+  "name": "protfolio",
+  "version": "1.0.0",
+  "description": "Protfolio",
+  "main": "Portfolio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlmarwaniLa/Protfolio.git"
+  },
+  "author": "Layla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlmarwaniLa/Protfolio/issues"
+  },
+  "homepage": "https://github.com/AlmarwaniLa/Protfolio#readme"
+}
